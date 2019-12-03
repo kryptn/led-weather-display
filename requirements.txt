@@ -1,0 +1,2 @@
+htmllistparse==0.5.2
+Pillow==6.2.1
